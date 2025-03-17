@@ -1,7 +1,7 @@
-# kuis-app-javascript
+# Kuis-app-javascript
 Aplikasi kuis interaktif berbasis HTML, CSS, dan JavaScript yang memungkinkan pengguna menjawab pertanyaan, melihat jawaban yang benar, dan menampilkan skor akhir.  
 
-## 🚀 Fitur  
+## Fitur  
 ✅ Menampilkan pertanyaan secara dinamis  
 ✅ Menampilkan jawaban benar dan salah dengan highlight warna  
 ✅ Tombol "Next" untuk melanjutkan ke pertanyaan berikutnya  
