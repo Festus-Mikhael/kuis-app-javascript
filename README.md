@@ -6,4 +6,5 @@ Aplikasi kuis interaktif berbasis HTML, CSS, dan JavaScript yang memungkinkan pe
 ✅ Menampilkan jawaban benar dan salah dengan highlight warna  
 ✅ Tombol "Next" untuk melanjutkan ke pertanyaan berikutnya  
 
+## Referensi
 Mengikuti tutorial youtube: https://youtu.be/PBcqGxrr9g8?si=v-bDVc95CrfpCpK_
